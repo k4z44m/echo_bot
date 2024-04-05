@@ -1,2 +1,3 @@
 # echo_bot
- simple repeate-bot
+
+This is my first telegram bot
